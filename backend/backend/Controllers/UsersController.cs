@@ -10,7 +10,7 @@ namespace backend.Controllers
     public class UsersController : ControllerBase
     {
         [HttpGet]
-        public async Task<IActionResult> GetAllUsers()
+        public async Task<ActionResult<List<User>>> GetAllUsers()
         {
             var users = new List<User>()
             {

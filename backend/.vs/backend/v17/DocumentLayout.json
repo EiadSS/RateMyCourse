@@ -3,16 +3,24 @@
   "WorkspaceRootPath": "C:\\Users\\Tala\\OneDrive\\Desktop\\Projects\\RateMyCourse\\backend\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{61D581DF-BCF9-4042-9A56-06947B9CA910}|backend\\backend.csproj|c:\\users\\tala\\onedrive\\desktop\\projects\\ratemycourse\\backend\\backend\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{61D581DF-BCF9-4042-9A56-06947B9CA910}|backend\\backend.csproj|solutionrelative:backend\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{61D581DF-BCF9-4042-9A56-06947B9CA910}|backend\\backend.csproj|c:\\users\\tala\\onedrive\\desktop\\projects\\ratemycourse\\backend\\backend\\entity\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61D581DF-BCF9-4042-9A56-06947B9CA910}|backend\\backend.csproj|solutionrelative:backend\\entity\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61D581DF-BCF9-4042-9A56-06947B9CA910}|backend\\backend.csproj|c:\\users\\tala\\onedrive\\desktop\\projects\\ratemycourse\\backend\\backend\\data\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61D581DF-BCF9-4042-9A56-06947B9CA910}|backend\\backend.csproj|solutionrelative:backend\\data\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{61D581DF-BCF9-4042-9A56-06947B9CA910}|backend\\backend.csproj|c:\\users\\tala\\onedrive\\desktop\\projects\\ratemycourse\\backend\\backend\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{61D581DF-BCF9-4042-9A56-06947B9CA910}|backend\\backend.csproj|solutionrelative:backend\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{61D581DF-BCF9-4042-9A56-06947B9CA910}|backend\\backend.csproj|c:\\users\\tala\\onedrive\\desktop\\projects\\ratemycourse\\backend\\backend\\entity\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{61D581DF-BCF9-4042-9A56-06947B9CA910}|backend\\backend.csproj|solutionrelative:backend\\entity\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{61D581DF-BCF9-4042-9A56-06947B9CA910}|backend\\backend.csproj|c:\\users\\tala\\onedrive\\desktop\\projects\\ratemycourse\\backend\\backend\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{61D581DF-BCF9-4042-9A56-06947B9CA910}|backend\\backend.csproj|solutionrelative:backend\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61D581DF-BCF9-4042-9A56-06947B9CA910}|backend\\backend.csproj|c:\\users\\tala\\onedrive\\desktop\\projects\\ratemycourse\\backend\\backend\\backend.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{61D581DF-BCF9-4042-9A56-06947B9CA910}|backend\\backend.csproj|solutionrelative:backend\\backend.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     }
   ],
   "DocumentGroupContainers": [
@@ -27,32 +35,6 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "launchSettings.json",
-              "DocumentMoniker": "C:\\Users\\Tala\\OneDrive\\Desktop\\Projects\\RateMyCourse\\backend\\backend\\Properties\\launchSettings.json",
-              "RelativeDocumentMoniker": "backend\\Properties\\launchSettings.json",
-              "ToolTip": "C:\\Users\\Tala\\OneDrive\\Desktop\\Projects\\RateMyCourse\\backend\\backend\\Properties\\launchSettings.json",
-              "RelativeToolTip": "backend\\Properties\\launchSettings.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAjAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-04-28T19:30:43.567Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "UsersController.cs",
-              "DocumentMoniker": "C:\\Users\\Tala\\OneDrive\\Desktop\\Projects\\RateMyCourse\\backend\\backend\\Controllers\\UsersController.cs",
-              "RelativeDocumentMoniker": "backend\\Controllers\\UsersController.cs",
-              "ToolTip": "C:\\Users\\Tala\\OneDrive\\Desktop\\Projects\\RateMyCourse\\backend\\backend\\Controllers\\UsersController.cs",
-              "RelativeToolTip": "backend\\Controllers\\UsersController.cs",
-              "ViewState": "AQIAAAkAAAAAAAAAAAAAABwAAAAFAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-28T19:28:19.516Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
               "Title": "User.cs",
               "DocumentMoniker": "C:\\Users\\Tala\\OneDrive\\Desktop\\Projects\\RateMyCourse\\backend\\backend\\Entity\\User.cs",
               "RelativeDocumentMoniker": "backend\\Entity\\User.cs",
@@ -60,7 +42,59 @@
               "RelativeToolTip": "backend\\Entity\\User.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAA8AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-28T19:23:03.441Z",
+              "WhenOpened": "2024-04-28T23:20:58.847Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Tala\\OneDrive\\Desktop\\Projects\\RateMyCourse\\backend\\backend\\appsettings.json",
+              "RelativeDocumentMoniker": "backend\\appsettings.json",
+              "ToolTip": "C:\\Users\\Tala\\OneDrive\\Desktop\\Projects\\RateMyCourse\\backend\\backend\\appsettings.json",
+              "RelativeToolTip": "backend\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-04-28T23:15:48.715Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DataContext.cs",
+              "DocumentMoniker": "C:\\Users\\Tala\\OneDrive\\Desktop\\Projects\\RateMyCourse\\backend\\backend\\Data\\DataContext.cs",
+              "RelativeDocumentMoniker": "backend\\Data\\DataContext.cs",
+              "ToolTip": "C:\\Users\\Tala\\OneDrive\\Desktop\\Projects\\RateMyCourse\\backend\\backend\\Data\\DataContext.cs",
+              "RelativeToolTip": "backend\\Data\\DataContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-28T22:56:59.279Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "backend",
+              "DocumentMoniker": "C:\\Users\\Tala\\OneDrive\\Desktop\\Projects\\RateMyCourse\\backend\\backend\\backend.csproj",
+              "RelativeDocumentMoniker": "backend\\backend.csproj",
+              "ToolTip": "C:\\Users\\Tala\\OneDrive\\Desktop\\Projects\\RateMyCourse\\backend\\backend\\backend.csproj",
+              "RelativeToolTip": "backend\\backend.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-04-28T22:55:31.614Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UsersController.cs",
+              "DocumentMoniker": "C:\\Users\\Tala\\OneDrive\\Desktop\\Projects\\RateMyCourse\\backend\\backend\\Controllers\\UsersController.cs",
+              "RelativeDocumentMoniker": "backend\\Controllers\\UsersController.cs",
+              "ToolTip": "C:\\Users\\Tala\\OneDrive\\Desktop\\Projects\\RateMyCourse\\backend\\backend\\Controllers\\UsersController.cs",
+              "RelativeToolTip": "backend\\Controllers\\UsersController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-28T22:51:21.764Z",
               "EditorCaption": ""
             }
           ]
