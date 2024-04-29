@@ -3,24 +3,32 @@
   "WorkspaceRootPath": "C:\\Users\\Tala\\OneDrive\\Desktop\\Projects\\RateMyCourse\\backend\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{61D581DF-BCF9-4042-9A56-06947B9CA910}|backend\\backend.csproj|c:\\users\\tala\\onedrive\\desktop\\projects\\ratemycourse\\backend\\backend\\entity\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{61D581DF-BCF9-4042-9A56-06947B9CA910}|backend\\backend.csproj|solutionrelative:backend\\entity\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{61D581DF-BCF9-4042-9A56-06947B9CA910}|backend\\backend.csproj|c:\\users\\tala\\onedrive\\desktop\\projects\\ratemycourse\\backend\\backend\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{61D581DF-BCF9-4042-9A56-06947B9CA910}|backend\\backend.csproj|solutionrelative:backend\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61D581DF-BCF9-4042-9A56-06947B9CA910}|backend\\backend.csproj|c:\\users\\tala\\onedrive\\desktop\\projects\\ratemycourse\\backend\\backend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61D581DF-BCF9-4042-9A56-06947B9CA910}|backend\\backend.csproj|solutionrelative:backend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{61D581DF-BCF9-4042-9A56-06947B9CA910}|backend\\backend.csproj|c:\\users\\tala\\onedrive\\desktop\\projects\\ratemycourse\\backend\\backend\\data\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{61D581DF-BCF9-4042-9A56-06947B9CA910}|backend\\backend.csproj|solutionrelative:backend\\data\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{61D581DF-BCF9-4042-9A56-06947B9CA910}|backend\\backend.csproj|c:\\users\\tala\\onedrive\\desktop\\projects\\ratemycourse\\backend\\backend\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{61D581DF-BCF9-4042-9A56-06947B9CA910}|backend\\backend.csproj|solutionrelative:backend\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{61D581DF-BCF9-4042-9A56-06947B9CA910}|backend\\backend.csproj|c:\\users\\tala\\onedrive\\desktop\\projects\\ratemycourse\\backend\\backend\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{61D581DF-BCF9-4042-9A56-06947B9CA910}|backend\\backend.csproj|solutionrelative:backend\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{61D581DF-BCF9-4042-9A56-06947B9CA910}|backend\\backend.csproj|c:\\users\\tala\\onedrive\\desktop\\projects\\ratemycourse\\backend\\backend\\backend.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{61D581DF-BCF9-4042-9A56-06947B9CA910}|backend\\backend.csproj|solutionrelative:backend\\backend.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61D581DF-BCF9-4042-9A56-06947B9CA910}|backend\\backend.csproj|c:\\users\\tala\\onedrive\\desktop\\projects\\ratemycourse\\backend\\backend\\migrations\\20240429175845_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61D581DF-BCF9-4042-9A56-06947B9CA910}|backend\\backend.csproj|solutionrelative:backend\\migrations\\20240429175845_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61D581DF-BCF9-4042-9A56-06947B9CA910}|backend\\backend.csproj|c:\\users\\tala\\onedrive\\desktop\\projects\\ratemycourse\\backend\\backend\\entity\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61D581DF-BCF9-4042-9A56-06947B9CA910}|backend\\backend.csproj|solutionrelative:backend\\entity\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61D581DF-BCF9-4042-9A56-06947B9CA910}|backend\\backend.csproj|c:\\users\\tala\\onedrive\\desktop\\projects\\ratemycourse\\backend\\backend\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61D581DF-BCF9-4042-9A56-06947B9CA910}|backend\\backend.csproj|solutionrelative:backend\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,63 +38,87 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 4,
+              "Title": "20240429175845_Initial.cs",
+              "DocumentMoniker": "C:\\Users\\Tala\\OneDrive\\Desktop\\Projects\\RateMyCourse\\backend\\backend\\Migrations\\20240429175845_Initial.cs",
+              "RelativeDocumentMoniker": "backend\\Migrations\\20240429175845_Initial.cs",
+              "ToolTip": "C:\\Users\\Tala\\OneDrive\\Desktop\\Projects\\RateMyCourse\\backend\\backend\\Migrations\\20240429175845_Initial.cs",
+              "RelativeToolTip": "backend\\Migrations\\20240429175845_Initial.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-29T17:58:46.477Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Tala\\OneDrive\\Desktop\\Projects\\RateMyCourse\\backend\\backend\\Program.cs",
+              "RelativeDocumentMoniker": "backend\\Program.cs",
+              "ToolTip": "C:\\Users\\Tala\\OneDrive\\Desktop\\Projects\\RateMyCourse\\backend\\backend\\Program.cs",
+              "RelativeToolTip": "backend\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-29T17:48:50.36Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "User.cs",
               "DocumentMoniker": "C:\\Users\\Tala\\OneDrive\\Desktop\\Projects\\RateMyCourse\\backend\\backend\\Entity\\User.cs",
               "RelativeDocumentMoniker": "backend\\Entity\\User.cs",
               "ToolTip": "C:\\Users\\Tala\\OneDrive\\Desktop\\Projects\\RateMyCourse\\backend\\backend\\Entity\\User.cs",
               "RelativeToolTip": "backend\\Entity\\User.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAA8AAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-28T23:20:58.847Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-28T23:20:58.847Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\Tala\\OneDrive\\Desktop\\Projects\\RateMyCourse\\backend\\backend\\appsettings.json",
               "RelativeDocumentMoniker": "backend\\appsettings.json",
               "ToolTip": "C:\\Users\\Tala\\OneDrive\\Desktop\\Projects\\RateMyCourse\\backend\\backend\\appsettings.json",
               "RelativeToolTip": "backend\\appsettings.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAgAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
               "WhenOpened": "2024-04-28T23:15:48.715Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "DataContext.cs",
               "DocumentMoniker": "C:\\Users\\Tala\\OneDrive\\Desktop\\Projects\\RateMyCourse\\backend\\backend\\Data\\DataContext.cs",
               "RelativeDocumentMoniker": "backend\\Data\\DataContext.cs",
               "ToolTip": "C:\\Users\\Tala\\OneDrive\\Desktop\\Projects\\RateMyCourse\\backend\\backend\\Data\\DataContext.cs",
               "RelativeToolTip": "backend\\Data\\DataContext.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAJAAAA",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAsAAAAtAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-28T22:56:59.279Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "backend",
+              "DocumentIndex": 3,
+              "Title": "backend.csproj",
               "DocumentMoniker": "C:\\Users\\Tala\\OneDrive\\Desktop\\Projects\\RateMyCourse\\backend\\backend\\backend.csproj",
               "RelativeDocumentMoniker": "backend\\backend.csproj",
               "ToolTip": "C:\\Users\\Tala\\OneDrive\\Desktop\\Projects\\RateMyCourse\\backend\\backend\\backend.csproj",
               "RelativeToolTip": "backend\\backend.csproj",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAABUAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
               "WhenOpened": "2024-04-28T22:55:31.614Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 6,
               "Title": "UsersController.cs",
               "DocumentMoniker": "C:\\Users\\Tala\\OneDrive\\Desktop\\Projects\\RateMyCourse\\backend\\backend\\Controllers\\UsersController.cs",
               "RelativeDocumentMoniker": "backend\\Controllers\\UsersController.cs",
@@ -94,8 +126,7 @@
               "RelativeToolTip": "backend\\Controllers\\UsersController.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-28T22:51:21.764Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-28T22:51:21.764Z"
             }
           ]
         }
