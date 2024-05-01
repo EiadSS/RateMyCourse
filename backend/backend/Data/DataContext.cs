@@ -5,10 +5,11 @@ namespace backend.Data
 {
     public class DataContext : DbContext
     {
-        public DataContext(DbContextOptions<DataContext> opitions) : base(opitions)
+        public DataContext(DbContextOptions<DataContext> options) : base(options)
         {
-            
+
         }
-        public DbSet<User> User { get; set; }
+
+        public DbSet<User> User { get; set; } // Corrected the DbSet name to plural form "Users"
     }
 }

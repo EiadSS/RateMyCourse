@@ -1,7 +1,9 @@
-﻿using backend.Entity;
+﻿using backend.Data;
+using backend.Entity;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Http.HttpResults;
 using Microsoft.AspNetCore.Mvc;
+using Microsoft.EntityFrameworkCore;
 
 namespace backend.Controllers
 {
@@ -9,22 +11,29 @@ namespace backend.Controllers
     [ApiController]
     public class UsersController : ControllerBase
     {
+        private readonly DataContext _context;
+
+        public UsersController(DataContext context)
+        {
+            _context = context;
+        }
+
         [HttpGet]
         public async Task<ActionResult<List<User>>> GetAllUsers()
         {
-            var users = new List<User>()
-            {
-                new User
-                {
-                    Id = 1,
-                    firstName = "eiad",
-                    lastName = "suliman",
-                    userName = "eiadss",
-                    email = "eiad@gmail.com",
-                    password = "eiad12345",
-                }
-        };
+            var users = await _context.User.ToListAsync();
+
             return Ok(users);
+        }
+
+        [HttpGet]
+        [Route("{id}")]
+        public async Task<ActionResult<User>> GetUser(int id)
+        {
+            var user = await _context.User.FindAsync(id);
+            if (user is null)
+                return NotFound("user not found");
+            return Ok(user);
         }
     }
 }
