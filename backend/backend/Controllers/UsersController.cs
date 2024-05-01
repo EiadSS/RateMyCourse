@@ -35,5 +35,12 @@ namespace backend.Controllers
                 return NotFound("user not found");
             return Ok(user);
         }
+        [HttpPost]
+        public async Task<ActionResult<User>> AddUser(User user)
+        {
+            _context.User.Add(user);
+            await _context.SaveChangesAsync();
+            return CreatedAtAction(nameof(GetUser), new { id = user.Id }, user);
+        }
     }
 }

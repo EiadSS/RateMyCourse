@@ -44,7 +44,7 @@
               "RelativeDocumentMoniker": "backend\\Controllers\\UsersController.cs",
               "ToolTip": "C:\\Users\\Tala\\OneDrive\\Desktop\\Projects\\RateMyCourse\\backend\\backend\\Controllers\\UsersController.cs",
               "RelativeToolTip": "backend\\Controllers\\UsersController.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAqwBMAAAAAAAAA",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAwBQAAAARAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-01T02:01:59.066Z",
               "EditorCaption": ""
@@ -59,8 +59,7 @@
               "RelativeToolTip": "backend\\Program.cs",
               "ViewState": "AQIAAAMAAAAAAAAAAAAAABAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-01T01:49:06.357Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-01T01:49:06.357Z"
             },
             {
               "$type": "Document",
@@ -72,8 +71,7 @@
               "RelativeToolTip": "backend\\appsettings.json",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-05-01T01:39:32.465Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-01T01:39:32.465Z"
             },
             {
               "$type": "Document",
@@ -85,21 +83,19 @@
               "RelativeToolTip": "backend\\Data\\DataContext.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-01T01:39:23.09Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-01T01:39:23.09Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "backend",
+              "Title": "backend.csproj",
               "DocumentMoniker": "C:\\Users\\Tala\\OneDrive\\Desktop\\Projects\\RateMyCourse\\backend\\backend\\backend.csproj",
               "RelativeDocumentMoniker": "backend\\backend.csproj",
               "ToolTip": "C:\\Users\\Tala\\OneDrive\\Desktop\\Projects\\RateMyCourse\\backend\\backend\\backend.csproj",
               "RelativeToolTip": "backend\\backend.csproj",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-05-01T01:38:34.95Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-01T01:38:34.95Z"
             },
             {
               "$type": "Document",
@@ -111,8 +107,7 @@
               "RelativeToolTip": "backend\\Migrations\\20240429175845_Initial.cs",
               "ViewState": "AQIAABAAAAAAAAAAAAAgwAoAAAAiAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-01T01:35:29.052Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-01T01:35:29.052Z"
             }
           ]
         }
