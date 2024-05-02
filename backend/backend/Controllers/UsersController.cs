@@ -42,5 +42,30 @@ namespace backend.Controllers
             await _context.SaveChangesAsync();
             return CreatedAtAction(nameof(GetUser), new { id = user.Id }, user);
         }
+        [HttpPut]
+        public async Task<ActionResult<User>> UpdateUser(User user)
+        {
+            var updatedUser = await _context.User.FindAsync(user.Id);
+            if (updatedUser is null)
+                return NotFound("user not found");
+            updatedUser.firstName = user.firstName;
+            updatedUser.lastName = user.lastName;
+            updatedUser.email = user.email;
+            updatedUser.password= user.password;
+            updatedUser.userName = user.userName;
+            updatedUser.firstName = user.firstName;
+            await _context.SaveChangesAsync();
+            return Ok(updatedUser);
+        }
+        [HttpDelete]
+        public async Task<ActionResult<User>> DeleteUser(int id)
+        {
+            var user = await _context.User.FindAsync(id);
+            if (user is null)
+                return NotFound("user not found");
+             _context.User.Remove(user);
+            await _context.SaveChangesAsync();
+            return Ok(user);
+        }
     }
 }
