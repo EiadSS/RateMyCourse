@@ -3,20 +3,32 @@
   "WorkspaceRootPath": "C:\\Users\\Tala\\OneDrive\\Desktop\\Projects\\RateMyCourse\\backend\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Tala\\OneDrive\\Desktop\\Projects\\RateMyCourse\\backend\\backend\\Migrations\\20240503174218_intial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:backend\\Migrations\\20240503174218_intial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{61D581DF-BCF9-4042-9A56-06947B9CA910}|backend\\backend.csproj|c:\\users\\tala\\onedrive\\desktop\\projects\\ratemycourse\\backend\\backend\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61D581DF-BCF9-4042-9A56-06947B9CA910}|backend\\backend.csproj|solutionrelative:backend\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{61D581DF-BCF9-4042-9A56-06947B9CA910}|backend\\backend.csproj|c:\\users\\tala\\onedrive\\desktop\\projects\\ratemycourse\\backend\\backend\\entity\\post.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{61D581DF-BCF9-4042-9A56-06947B9CA910}|backend\\backend.csproj|solutionrelative:backend\\entity\\post.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{61D581DF-BCF9-4042-9A56-06947B9CA910}|backend\\backend.csproj|c:\\users\\tala\\onedrive\\desktop\\projects\\ratemycourse\\backend\\backend\\controllers\\postcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61D581DF-BCF9-4042-9A56-06947B9CA910}|backend\\backend.csproj|solutionrelative:backend\\controllers\\postcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{61D581DF-BCF9-4042-9A56-06947B9CA910}|backend\\backend.csproj|c:\\users\\tala\\onedrive\\desktop\\projects\\ratemycourse\\backend\\backend\\entity\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{61D581DF-BCF9-4042-9A56-06947B9CA910}|backend\\backend.csproj|solutionrelative:backend\\entity\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{61D581DF-BCF9-4042-9A56-06947B9CA910}|backend\\backend.csproj|c:\\users\\tala\\onedrive\\desktop\\projects\\ratemycourse\\backend\\backend\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{61D581DF-BCF9-4042-9A56-06947B9CA910}|backend\\backend.csproj|solutionrelative:backend\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{61D581DF-BCF9-4042-9A56-06947B9CA910}|backend\\backend.csproj|c:\\users\\tala\\onedrive\\desktop\\projects\\ratemycourse\\backend\\backend\\controllers\\coursecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61D581DF-BCF9-4042-9A56-06947B9CA910}|backend\\backend.csproj|solutionrelative:backend\\controllers\\coursecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61D581DF-BCF9-4042-9A56-06947B9CA910}|backend\\backend.csproj|c:\\users\\tala\\onedrive\\desktop\\projects\\ratemycourse\\backend\\backend\\entity\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61D581DF-BCF9-4042-9A56-06947B9CA910}|backend\\backend.csproj|solutionrelative:backend\\entity\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61D581DF-BCF9-4042-9A56-06947B9CA910}|backend\\backend.csproj|c:\\users\\tala\\onedrive\\desktop\\projects\\ratemycourse\\backend\\backend\\migrations\\20240503174218_intial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61D581DF-BCF9-4042-9A56-06947B9CA910}|backend\\backend.csproj|solutionrelative:backend\\migrations\\20240503174218_intial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61D581DF-BCF9-4042-9A56-06947B9CA910}|backend\\backend.csproj|c:\\users\\tala\\onedrive\\desktop\\projects\\ratemycourse\\backend\\backend\\entity\\post.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61D581DF-BCF9-4042-9A56-06947B9CA910}|backend\\backend.csproj|solutionrelative:backend\\entity\\post.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{61D581DF-BCF9-4042-9A56-06947B9CA910}|backend\\backend.csproj|c:\\users\\tala\\onedrive\\desktop\\projects\\ratemycourse\\backend\\backend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -34,17 +46,56 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 4,
+              "Title": "Course.cs",
+              "DocumentMoniker": "C:\\Users\\Tala\\OneDrive\\Desktop\\Projects\\RateMyCourse\\backend\\backend\\Entity\\Course.cs",
+              "RelativeDocumentMoniker": "backend\\Entity\\Course.cs",
+              "ToolTip": "C:\\Users\\Tala\\OneDrive\\Desktop\\Projects\\RateMyCourse\\backend\\backend\\Entity\\Course.cs",
+              "RelativeToolTip": "backend\\Entity\\Course.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-03T20:13:58.236Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CourseController.cs",
+              "DocumentMoniker": "C:\\Users\\Tala\\OneDrive\\Desktop\\Projects\\RateMyCourse\\backend\\backend\\Controllers\\CourseController.cs",
+              "RelativeDocumentMoniker": "backend\\Controllers\\CourseController.cs",
+              "ToolTip": "C:\\Users\\Tala\\OneDrive\\Desktop\\Projects\\RateMyCourse\\backend\\backend\\Controllers\\CourseController.cs",
+              "RelativeToolTip": "backend\\Controllers\\CourseController.cs",
+              "ViewState": "AQIAACAAAAAAAAAAAAAwwDQAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-03T20:08:46.812Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PostController.cs",
+              "DocumentMoniker": "C:\\Users\\Tala\\OneDrive\\Desktop\\Projects\\RateMyCourse\\backend\\backend\\Controllers\\PostController.cs",
+              "RelativeDocumentMoniker": "backend\\Controllers\\PostController.cs",
+              "ToolTip": "C:\\Users\\Tala\\OneDrive\\Desktop\\Projects\\RateMyCourse\\backend\\backend\\Controllers\\PostController.cs",
+              "RelativeToolTip": "backend\\Controllers\\PostController.cs",
+              "ViewState": "AQIAADcAAAAAAAAAAAAcwE8AAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-03T20:06:57.795Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "20240503174218_intial.cs",
               "DocumentMoniker": "C:\\Users\\Tala\\OneDrive\\Desktop\\Projects\\RateMyCourse\\backend\\backend\\Migrations\\20240503174218_intial.cs",
               "RelativeDocumentMoniker": "backend\\Migrations\\20240503174218_intial.cs",
               "ToolTip": "C:\\Users\\Tala\\OneDrive\\Desktop\\Projects\\RateMyCourse\\backend\\backend\\Migrations\\20240503174218_intial.cs",
               "RelativeToolTip": "backend\\Migrations\\20240503174218_intial.cs",
-              "ViewState": "AQIAAAcAAAAAAAAAAAA6wA4AAAAlAAAA",
+              "ViewState": "AQIAAAoAAAAAAAAAAAA1wA4AAAAlAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-03T17:42:18.516Z",
               "EditorCaption": ""
@@ -64,7 +115,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 6,
               "Title": "Post.cs",
               "DocumentMoniker": "C:\\Users\\Tala\\OneDrive\\Desktop\\Projects\\RateMyCourse\\backend\\backend\\Entity\\Post.cs",
               "RelativeDocumentMoniker": "backend\\Entity\\Post.cs",
@@ -72,24 +123,24 @@
               "RelativeToolTip": "backend\\Entity\\Post.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-03T02:52:46.923Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-03T02:52:46.923Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
               "Title": "UsersController.cs",
               "DocumentMoniker": "C:\\Users\\Tala\\OneDrive\\Desktop\\Projects\\RateMyCourse\\backend\\backend\\Controllers\\UsersController.cs",
               "RelativeDocumentMoniker": "backend\\Controllers\\UsersController.cs",
               "ToolTip": "C:\\Users\\Tala\\OneDrive\\Desktop\\Projects\\RateMyCourse\\backend\\backend\\Controllers\\UsersController.cs",
               "RelativeToolTip": "backend\\Controllers\\UsersController.cs",
-              "ViewState": "AQIAAC4AAAAAAAAAAAAcwEYAAAAAAAAA",
+              "ViewState": "AQIAAC4AAAAAAAAAAAAqwEYAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-03T02:21:50.243Z"
+              "WhenOpened": "2024-05-03T02:21:50.243Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 7,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Tala\\OneDrive\\Desktop\\Projects\\RateMyCourse\\backend\\backend\\Program.cs",
               "RelativeDocumentMoniker": "backend\\Program.cs",
@@ -101,7 +152,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 8,
               "Title": "DataContext.cs",
               "DocumentMoniker": "C:\\Users\\Tala\\OneDrive\\Desktop\\Projects\\RateMyCourse\\backend\\backend\\Data\\DataContext.cs",
               "RelativeDocumentMoniker": "backend\\Data\\DataContext.cs",

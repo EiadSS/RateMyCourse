@@ -29,7 +29,7 @@ namespace backend.Controllers
         {
             var post = await _context.Post.FindAsync(id);
             if (post is null)
-                return NotFound("user not found");
+                return NotFound("post not found");
             return Ok(post);
         }
         [HttpPost]
@@ -44,7 +44,7 @@ namespace backend.Controllers
         {
             var updatedPost = await _context.Post.FindAsync(post.Id);
             if (updatedPost is null)
-                return NotFound("user not found");
+                return NotFound("post not found");
             updatedPost.comment = post.comment;
             updatedPost.userId = post.userId;
             updatedPost.rating = post.rating;
@@ -57,7 +57,7 @@ namespace backend.Controllers
         {
             var post = await _context.Post.FindAsync(id);
             if (post is null)
-                return NotFound("user not found");
+                return NotFound("post not found");
             _context.Post.Remove(post);
             await _context.SaveChangesAsync();
             return Ok(post);
@@ -67,6 +67,16 @@ namespace backend.Controllers
         {
             var posts = await _context.Post
                 .Where(p => p.courseId == courseId)
+                .ToListAsync();
+
+            return Ok(posts);
+        }
+
+        [HttpGet("made/{userId}")]
+        public async Task<ActionResult<List<Post>>> GetPostsByUserId(int userId)
+        {
+            var posts = await _context.Post
+                .Where(p => p.userId == userId)
                 .ToListAsync();
 
             return Ok(posts);
