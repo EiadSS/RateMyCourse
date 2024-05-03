@@ -57,8 +57,8 @@ namespace backend.Migrations
                     b.Property<int>("courseId")
                         .HasColumnType("int");
 
-                    b.Property<int>("parentPostId")
-                        .HasColumnType("int");
+                    b.Property<float>("rating")
+                        .HasColumnType("real");
 
                     b.Property<int>("userId")
                         .HasColumnType("int");

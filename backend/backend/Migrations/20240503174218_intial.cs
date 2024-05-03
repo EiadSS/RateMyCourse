@@ -5,34 +5,36 @@
 namespace backend.Migrations
 {
     /// <inheritdoc />
-    public partial class Initial : Migration
+    public partial class intial : Migration
     {
         /// <inheritdoc />
         protected override void Up(MigrationBuilder migrationBuilder)
         {
             migrationBuilder.CreateTable(
-                name: "User",
+                name: "Post",
                 columns: table => new
                 {
                     Id = table.Column<int>(type: "int", nullable: false)
                         .Annotation("SqlServer:Identity", "1, 1"),
-                    firstName = table.Column<string>(type: "nvarchar(max)", nullable: false),
-                    lastName = table.Column<string>(type: "nvarchar(max)", nullable: false),
-                    userName = table.Column<string>(type: "nvarchar(max)", nullable: false),
-                    email = table.Column<string>(type: "nvarchar(max)", nullable: false),
-                    password = table.Column<string>(type: "nvarchar(max)", nullable: false)
+                    comment = table.Column<string>(type: "nvarchar(max)", nullable: false),
+                    userId = table.Column<int>(type: "int", nullable: false),
+                    rating = table.Column<float>(type: "real", nullable: false),
+                    courseId = table.Column<int>(type: "int", nullable: false)
                 },
                 constraints: table =>
                 {
-                    table.PrimaryKey("PK_User", x => x.Id);
+                    table.PrimaryKey("PK_Post", x => x.Id);
                 });
+
         }
 
         /// <inheritdoc />
         protected override void Down(MigrationBuilder migrationBuilder)
         {
+
             migrationBuilder.DropTable(
-                name: "User");
+                name: "Post");
+           
         }
     }
 }

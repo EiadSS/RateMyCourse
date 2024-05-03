@@ -47,7 +47,7 @@ namespace backend.Controllers
                 return NotFound("user not found");
             updatedPost.comment = post.comment;
             updatedPost.userId = post.userId;
-            updatedPost.parentPostId = post.parentPostId;
+            updatedPost.rating = post.rating;
             updatedPost.courseId= post.courseId;
             await _context.SaveChangesAsync();
             return Ok(updatedPost);
@@ -66,21 +66,11 @@ namespace backend.Controllers
         public async Task<ActionResult<List<Post>>> GetPostsByCourseId(int courseId)
         {
             var posts = await _context.Post
-                .Where(p => p.courseId == courseId && p.parentPostId == 0)
+                .Where(p => p.courseId == courseId)
                 .ToListAsync();
 
             return Ok(posts);
         }
-        [HttpGet("parent/{parentPostId}")]
-        public async Task<ActionResult<List<Post>>> GetPostsByParentPostId(int parentPostId)
-        {
-            var posts = await _context.Post
-                .Where(p => p.parentPostId == parentPostId)
-                .ToListAsync();
-
-            return Ok(posts);
-        }
-
 
     }
 }
