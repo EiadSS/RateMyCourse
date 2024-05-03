@@ -25,7 +25,6 @@ namespace backend.Controllers
 
             return Ok(users);
         }
-
         [HttpGet]
         [Route("{id}")]
         public async Task<ActionResult<User>> GetUser(int id)

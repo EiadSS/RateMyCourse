@@ -8,5 +8,6 @@
         public int userId { get; set; } 
 
         public int parentPostId { get; set; }
-}
+        public int courseId { get; set; }
+    }
 }
